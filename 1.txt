@@ -1,7 +1,7 @@
 wxt
 123
 测试git commit
-console.log(2)
+console.log(1)
 
 pull tes
 test
